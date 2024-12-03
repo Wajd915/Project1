@@ -14,6 +14,10 @@ This project analyzes a dataset containing student information to answer three k
 - `Student_analysis.ipynb`: Jupyter notebook containing the analysis.
 - `Students.csv`: The dataset used for this project.
 
+## Blog Post
+
+I have also written a blog post summarizing the findings and insights from this analysis. You can read it [here](https://medium.com/@wajd29213/unlocking-student-success-insights-from-academic-data-f7ea264a0f2c).
+
 ## Results
 - The Physics department has the highest average GPA.
 - There is a weak positive correlation between GPA and student age.
