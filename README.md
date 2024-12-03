@@ -11,8 +11,8 @@ This project analyzes a dataset containing student information to answer three k
 3. How does GPA correlate with graduation year?
 
 ## Files
-- `student_analysis.ipynb`: Jupyter notebook containing the analysis.
-- `student_information.csv`: The dataset used for this project.
+- `Student_analysis.ipynb`: Jupyter notebook containing the analysis.
+- `Students.csv`: The dataset used for this project.
 
 ## Results
 - The Physics department has the highest average GPA.
